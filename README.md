@@ -36,5 +36,5 @@
 5. Dependencies
 
     C w/ C99 mode
-    hash.c created by TJ Holowaychuk
+    hash.c & buffer.c created by TJ Holowaychuk
     A unix based operating system
